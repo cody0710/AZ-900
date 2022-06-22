@@ -1,8 +1,8 @@
 # AZ-900
 Critical URL links that you should know before sittinming for Microsoft AZ-900 exam.
 
-https://azure.microsoft.com/ja-jp/overview/what-is-paas/
-https://azure.microsoft.com/ja-jp/resources/cloud-computing-dictionary/choosing-a-cloud-service-provider/
+https://azure.microsoft.com/ja-jp/overview/what-is-paas/ <br>
+https://azure.microsoft.com/ja-jp/resources/cloud-computing-dictionary/choosing-a-cloud-service-provider/ 
 https://azure.microsoft.com/ja-jp/topic/what-is-kubernetes/
 https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT
 https://azure.microsoft.com/ja-jp/resources/kubernetes-ebook-collection/
