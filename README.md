@@ -1,5 +1,5 @@
 # AZ-900
-You can pass AZ-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for your study if you carefully check which contents will be charged there. :) Below are the critical URL links that you should know before sitting for the Microsoft AZ-900 exam. Still under construction though. Gonna add about 100-150 more links.
+You can pass AZ-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for your study if you have an eye for being aware of what kind of contents will be charged there. :) Below are the critical URL links that you should know before sitting for the Microsoft AZ-900 exam. Still under construction though. Gonna add about 100-150 more links.
 
 <br>
 http://microsoft-bitools.blogspot.com/2017/07/azure-sql-database-vs-azure-sql-data.html<br>
