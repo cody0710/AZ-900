@@ -31,15 +31,12 @@ https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds
 https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/#private-cloud<br>
 https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/<br>
 https://azure.microsoft.com/en-us/overview/what-is-azure/iaas/#products<br>
-https://azure.microsoft.com/en-us/overview/what-is-azure/iaas/#products<br>
 https://azure.microsoft.com/en-us/overview/what-is-azure/iaas/<br>
 https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/<br>
 https://azure.microsoft.com/en-us/overview/what-is-elastic-computing/<br>
 https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/<br>
 https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/#:~:text=A%20hybrid%20cloud%E2%80%94sometimes%20called,to%20be%20shared%20between%20them.<br>
 https://azure.microsoft.com/en-us/overview/what-is-iaas/#get-started<br>
-https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview<br>
-https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview.<br>
 https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview<br>
 https://azure.microsoft.com/en-us/overview/what-is-iaas/<br>
 https://azure.microsoft.com/en-us/overview/what-is-paas/<br>
@@ -138,8 +135,6 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-res
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview#service-comparison<br>
-https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview<br>
-https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla#:~:text=High%20availability%20is%20implemented%20using,storage)%20containing%20copies%20of%20data.<br>
@@ -148,7 +143,6 @@ https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logica
 https://docs.microsoft.com/en-us/azure/azure-sql/database/scale-resources#:~:text=Autoscale%20is%20when%20a%20service,dynamic%20scalability%2C%20but%20not%20autoscale.<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-scale<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview<br>
-https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits#request-a-quota-increase<br>
 https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits?view=azuresql#obtaining-a-larger-quota-for-sql-managed-instance<br>
@@ -233,7 +227,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview#diffe
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-scale-in-policy<br>
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-use-availability-zones<br>
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability<br>
-https://docs.microsoft.com/en-us/azure/virtual-machines/availability<br>
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability?toc=%2Fazure%2Fvirtual-machine-scale-sets%2Ftoc.json<br>
 https://docs.microsoft.com/en-us/azure/virtual-machines/disks-redundancy<br>
 https://docs.microsoft.com/en-us/azure/virtual-machines/manage-availability<br>
@@ -267,13 +260,10 @@ https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/
 https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/azure-virtual-network-fundamentals<br>
 https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/2-defense-in-depth<br>
 https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/6-control-audit-resources-azure-policy<br>
-https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/8-control-audit-resources-azure-policy<br>
 https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/2-connect-on-premises-networks-to-azure-using-site-to-site-vpn-gateway<br>
 https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/media/2-resource-requirements-for-vpn-gateway.svg<br>
 https://docs.microsoft.com/en-us/learn/modules/examine-azure-subscriptions/6-knowledge-check<br>
-https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/<br>
 https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing<br>
-https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services<br>
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/tour-of-azure-services?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts<br>
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing<br>
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/3-how-azure-policy-works<br>
