@@ -2,7 +2,6 @@
 You can pass AZ-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for study at your own pace if you have an eye for being aware of what kind of contents will be charged by them. :) Below are the critical URL links that you should know before sitting for the Microsoft AZ-900 exam. Still under construction though. Gonna add about 100-150 more links onwards.
 
 http://microsoft-bitools.blogspot.com/2017/07/azure-sql-database-vs-azure-sql-data.html<br>
-http://techtalk.cloud/azure-subscription-resource-groups-management-groups-and-how-they-are-linked-to-azure-ad-tenant-and-some-common-faqs/<br>
 https://abouttmc.com/azure-cloud-total-cost-of-ownership/<br>
 https://azure.microsoft.com/en-us/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/<br>
 https://azure.microsoft.com/en-us/global-infrastructure/#:~:text=An%20Azure%20region%20is%20a,deploy%20applications%20where%20they%20need<br>
